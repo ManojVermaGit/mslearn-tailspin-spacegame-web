@@ -1,4 +1,6 @@
 
+
+[![Build Status](https://dev.azure.com/manojvermait16/Space%20Game-web-pipeline120/_apis/build/status/ManojVermaGit.mslearn-tailspin-spacegame-web%20(1)?branchName=main)](https://dev.azure.com/manojvermait16/Space%20Game-web-pipeline120/_build/latest?definitionId=3&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
